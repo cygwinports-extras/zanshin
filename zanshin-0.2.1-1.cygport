@@ -1,3 +1,0 @@
-HOMEPAGE="http://zanshin.kde.org"
-GIT_TAG=${PV}
-inherit kde4 git

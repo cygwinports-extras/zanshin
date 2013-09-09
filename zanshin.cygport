@@ -1,0 +1,12 @@
+GIT_TAG=${PV}
+inherit kde4 git
+
+NAME="zanshin"
+VERSION=0.2.1
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Todo list"
+DESCRIPTION="Zanshin is a powerful yet simple application for managing your
+day to day actions and notes. It helps you organize and reduce the cognitive
+pressure of what one has to do in his job and personal life."
+HOMEPAGE="http://zanshin.kde.org"
